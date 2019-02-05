@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+.
+
+#p1 {
+	background-image: url(../images/2.jpg);
+}
+.p2 {
+	background-image: url(../images/2.jpg);
+}
+
+
+.p3 {
+	float: right;
+	height: auto;
+	width: auto;
+	padding-top: 2px;
+	padding-right: 190px;
+	padding-left: 5px;
+	margin: auto;
+	clear: right;
+	letter-spacing: normal;
+	text-align: justify;
+	word-spacing: normal;
+}
+.p3 {
+	text-align: justify;
+	vertical-align: top;
+}
+.p4 {yichan
+	font-size: 36px;
+	color: #FFF;
+	font-family: "华文行楷";
+	font-size: 36px;
+}
+.p5 {
+	font-family: "华文楷体";
+	font-size: 24px;
+	color: #FF6;
+}
+.p6 {
+	font-family: "华文楷体";
+	font-size: 18px;
+	color: #000;yichan
+}
+.p7 {
+	font-family: "华文楷体";
+	font-size: 24px;
+	color: #03F;
+}
+.p8 {
+	font-family: "华文楷体";
+	font-size: 24px;
+	color: #333;
+}
+.p9 {
+	background-color: #03F;
+}

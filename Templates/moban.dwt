@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../style/date.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body {
+	background-color: #33F;
+	background-image: url(../images/1.jpg);
+}
+</style>
+</head>
+
+<body>
+<table width="680" height="1129" border="1" align="center">
+  <tr class="p2">
+    <td height="228" colspan="5" id="p1"><!--帆船-->
+      <table width="138" height="104" border="0" align="center">
+      <tr>
+        <td width="132" height="100" align="center" valign="middle"><img src="../images/3.jpg" width="88" height="79"></td>
+      </tr>
+    </table></td><!--帆船-->
+  </tr>
+  <tr bgcolor="#99CCFF"><!--导航栏-->
+    <td width="136" height="31" align="center" valign="middle" bgcolor="#99CCFF"><a href="index.html">个人介绍</a></td>
+    <td width="136" align="center" valign="middle" bgcolor="#99CCFF"><a href="photo.html">时光留影</a></td>
+    <td width="136" align="center" valign="middle" bgcolor="#99CCFF"><a href="music.html">音乐园地</a></td>
+    <td width="136" align="center" valign="middle" bgcolor="#99CCFF"><a href="flash.html">影视动漫</a></td>
+    <td width="136" align="center" valign="middle" bgcolor="#99CCFF"><a href="note.html">留言墙</a></td><!--导航栏-->
+  </tr>
+  <!-- TemplateBeginEditable name="EditRegion3" -->
+  <tr bgcolor="#99CCFF">
+   <!--可编辑区域--> <td height="831" colspan="5" valign="top" bgcolor="#CCCCCC">&nbsp;</td><!--可编辑区域-->
+  <tr bgcolor="#99CCFF">
+   <!-- TemplateEndEditable -->
+    <tr class="p9">  
+      <td height="23" colspan="5" align="center" valign="middle" bgcolor="#CCCCCC" class="p9">版权所有 翻版必究</td>
+ 
+</table>
+</body>
+</html>
